@@ -10,12 +10,12 @@
 
 ```
                         ┌─────────────────────────────────────┐
-                        │       Gradio UI  (port 7860)         │
+                        │       Gradio UI  (port 7860)        │
                         └──────────────┬──────────────────────┘
                                        │
                         ┌──────────────▼──────────────────────┐
-                        │   Host Router Agent — Google ADK     │
-                        │   (A2A Client, routes by intent)     │
+                        │   Host Router Agent — Google ADK    │
+                        │   (A2A Client, routes by intent)    │
                         └────────┬─────────────────┬──────────┘
                A2A (port 8010)   │                 │   A2A (port 8011)
                         ┌────────▼──────┐   ┌──────▼────────────┐
