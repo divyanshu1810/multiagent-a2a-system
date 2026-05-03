@@ -16,10 +16,10 @@ env/
 
 # ── uv ───────────────────────────────────────────────────────────
 .uv/
-uv.lock          # optional: commit this if you want reproducible installs
+uv.lock          
 
 # ── Environment & secrets ─────────────────────────────────────────
-.env             # ← most important — never commit API keys
+.env             
 *.key
 *.pem
 
