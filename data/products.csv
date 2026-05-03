@@ -1,0 +1,101 @@
+product_code,product_name,product_type,brand_name,unit_price,quantity_in_stock
+P1000,Samsung Smartphone 5G,Electronics,Samsung,35952,33
+P1001,Sony Smartphone 5G,Electronics,Sony,15819,194
+P1002,Samsung Laptop 15.6in,Electronics,Samsung,63024,67
+P1003,Sony Laptop 15.6in,Electronics,Sony,59628,40
+P1004,Samsung Wireless Earbuds,Electronics,Samsung,4679,178
+P1005,Sony Wireless Earbuds,Electronics,Sony,11935,27
+P1006,Samsung Smart TV 55in,Electronics,Samsung,73698,113
+P1007,Sony Smart TV 55in,Electronics,Sony,37082,12
+P1008,Samsung Tablet 10in,Electronics,Samsung,24140,60
+P1009,Sony Tablet 10in,Electronics,Sony,33247,134
+P1010,Samsung Bluetooth Speaker,Electronics,Samsung,7431,11
+P1011,Sony Bluetooth Speaker,Electronics,Sony,7097,55
+P1012,Samsung Smart Watch,Electronics,Samsung,31462,171
+P1013,Sony Smart Watch,Electronics,Sony,30981,144
+P1014,Samsung Gaming Console,Electronics,Samsung,48746,61
+P1015,Sony Gaming Console,Electronics,Sony,49719,155
+P1016,Samsung Webcam HD,Electronics,Samsung,3139,6
+P1017,Sony Webcam HD,Electronics,Sony,2653,183
+P1018,Samsung DSLR Camera,Electronics,Samsung,100392,92
+P1019,Sony DSLR Camera,Electronics,Sony,81421,44
+P1020,Whirlpool Refrigerator 350L,Home Appliances,Whirlpool,32055,200
+P1021,IFB Refrigerator 350L,Home Appliances,IFB,36029,31
+P1022,Whirlpool Washing Machine 8kg,Home Appliances,Whirlpool,25039,102
+P1023,IFB Washing Machine 8kg,Home Appliances,IFB,25169,96
+P1024,Whirlpool Microwave Oven 25L,Home Appliances,Whirlpool,13635,159
+P1025,IFB Microwave Oven 25L,Home Appliances,IFB,12333,16
+P1026,Whirlpool Air Conditioner 1.5T,Home Appliances,Whirlpool,62108,142
+P1027,IFB Air Conditioner 1.5T,Home Appliances,IFB,40180,101
+P1028,Whirlpool Vacuum Cleaner,Home Appliances,Whirlpool,6291,146
+P1029,IFB Vacuum Cleaner,Home Appliances,IFB,9803,165
+P1030,Whirlpool Induction Cooktop,Home Appliances,Whirlpool,5033,97
+P1031,IFB Induction Cooktop,Home Appliances,IFB,4864,54
+P1032,Whirlpool Water Purifier,Home Appliances,Whirlpool,19543,22
+P1033,IFB Water Purifier,Home Appliances,IFB,8750,174
+P1034,Whirlpool Ceiling Fan 1200mm,Home Appliances,Whirlpool,2433,79
+P1035,IFB Ceiling Fan 1200mm,Home Appliances,IFB,1826,64
+P1036,Whirlpool Air Purifier,Home Appliances,Whirlpool,9654,102
+P1037,IFB Air Purifier,Home Appliances,IFB,12554,121
+P1038,Whirlpool Dishwasher 12 Place,Home Appliances,Whirlpool,48830,98
+P1039,IFB Dishwasher 12 Place,Home Appliances,IFB,33329,99
+P1040,Raymond Formal Shirt,Menswear,Raymond,2255,58
+P1041,Arrow Formal Shirt,Menswear,Arrow,1893,184
+P1042,Raymond Casual Polo Tee,Menswear,Raymond,1999,170
+P1043,Arrow Casual Polo Tee,Menswear,Arrow,746,160
+P1044,Raymond Business Suit,Menswear,Raymond,13607,141
+P1045,Arrow Business Suit,Menswear,Arrow,16021,46
+P1046,Raymond Denim Jeans,Menswear,Raymond,3393,102
+P1047,Arrow Denim Jeans,Menswear,Arrow,2605,168
+P1048,Raymond Chinos,Menswear,Raymond,3481,61
+P1049,Arrow Chinos,Menswear,Arrow,2528,19
+P1050,Raymond Blazer,Menswear,Raymond,7752,13
+P1051,Arrow Blazer,Menswear,Arrow,9168,107
+P1052,Raymond Ethnic Kurta,Menswear,Raymond,2096,21
+P1053,Arrow Ethnic Kurta,Menswear,Arrow,1864,150
+P1054,Raymond Sports Jogger,Menswear,Raymond,2088,59
+P1055,Arrow Sports Jogger,Menswear,Arrow,2844,106
+P1056,Raymond Winter Jacket,Menswear,Raymond,8266,122
+P1057,Arrow Winter Jacket,Menswear,Arrow,4170,72
+P1058,Raymond Formal Trousers,Menswear,Raymond,1771,68
+P1059,Arrow Formal Trousers,Menswear,Arrow,3499,142
+P1060,W Salwar Kameez,Womenswear,W,2276,196
+P1061,Biba Salwar Kameez,Womenswear,Biba,3594,114
+P1062,W Saree,Womenswear,W,11560,107
+P1063,Biba Saree,Womenswear,Biba,7930,61
+P1064,W Lehenga Choli,Womenswear,W,9532,135
+P1065,Biba Lehenga Choli,Womenswear,Biba,21171,28
+P1066,W Casual Kurti,Womenswear,W,2247,17
+P1067,Biba Casual Kurti,Womenswear,Biba,2463,33
+P1068,W Western Dress,Womenswear,W,2752,165
+P1069,Biba Western Dress,Womenswear,Biba,2810,179
+P1070,W Palazzo Set,Womenswear,W,2729,157
+P1071,Biba Palazzo Set,Womenswear,Biba,1260,103
+P1072,W Anarkali Suit,Womenswear,W,5626,157
+P1073,Biba Anarkali Suit,Womenswear,Biba,6334,140
+P1074,W Denim Shirt,Womenswear,W,1514,146
+P1075,Biba Denim Shirt,Womenswear,Biba,2762,7
+P1076,W Crop Top,Womenswear,W,1893,189
+P1077,Biba Crop Top,Womenswear,Biba,734,179
+P1078,W Formal Blazer,Womenswear,W,7398,197
+P1079,Biba Formal Blazer,Womenswear,Biba,5185,169
+P1080,Godrej Interio Sofa 3-Seater,Home Décor,Godrej Interio,47293,33
+P1081,Nilkamal Sofa 3-Seater,Home Décor,Nilkamal,44234,116
+P1082,Godrej Interio Dining Table 6-Seater,Home Décor,Godrej Interio,30365,121
+P1083,Nilkamal Dining Table 6-Seater,Home Décor,Nilkamal,20212,189
+P1084,Godrej Interio Wardrobe 3-Door,Home Décor,Godrej Interio,41582,72
+P1085,Nilkamal Wardrobe 3-Door,Home Décor,Nilkamal,34403,200
+P1086,Godrej Interio Bed Frame Queen,Home Décor,Godrej Interio,20854,134
+P1087,Nilkamal Bed Frame Queen,Home Décor,Nilkamal,18486,165
+P1088,Godrej Interio Study Table,Home Décor,Godrej Interio,9889,168
+P1089,Nilkamal Study Table,Home Décor,Nilkamal,13317,160
+P1090,Godrej Interio Bookshelf 5-Shelf,Home Décor,Godrej Interio,9258,44
+P1091,Nilkamal Bookshelf 5-Shelf,Home Décor,Nilkamal,12126,200
+P1092,Godrej Interio Wall Mirror,Home Décor,Godrej Interio,3323,143
+P1093,Nilkamal Wall Mirror,Home Décor,Nilkamal,6344,5
+P1094,Godrej Interio Floor Lamp,Home Décor,Godrej Interio,7906,87
+P1095,Nilkamal Floor Lamp,Home Décor,Nilkamal,7002,9
+P1096,Godrej Interio Decorative Vase,Home Décor,Godrej Interio,1258,97
+P1097,Nilkamal Decorative Vase,Home Décor,Nilkamal,2059,66
+P1098,Godrej Interio Area Rug 6x9ft,Home Décor,Godrej Interio,5949,66
+P1099,Nilkamal Area Rug 6x9ft,Home Décor,Nilkamal,14295,25

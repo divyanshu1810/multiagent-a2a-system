@@ -1,0 +1,50 @@
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── uv ───────────────────────────────────────────────────────────
+.uv/
+uv.lock          # optional: commit this if you want reproducible installs
+
+# ── Environment & secrets ─────────────────────────────────────────
+.env             # ← most important — never commit API keys
+*.key
+*.pem
+
+# ── Vector store (auto-built, can be large) ───────────────────────
+chroma_db/
+
+# ── Service logs ─────────────────────────────────────────────────
+logs/
+
+# ── Data (optional — commit the CSVs if they're seed data) ───────
+# data/*.csv     # uncomment if CSVs are generated, not hand-crafted
+
+# ── OS & editor ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Jupyter (if you add notebooks later) ─────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Pytest / coverage ────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
